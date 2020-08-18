@@ -1,0 +1,13 @@
+body {
+  padding: 50px;
+  font: 14px  "HPSimplified-Light", Helvetica, Arial, sans-serif;
+  text-align: center;
+  font-size: 67px;
+  text-transform: uppercase;
+  color: #4fc08d;
+}
+
+a {
+  color: #00B7FF;
+}
+
